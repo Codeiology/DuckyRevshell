@@ -8,4 +8,6 @@ Once you run revshell.py, a user friendly interface will appear and the whole th
 
 `cd Revshell`
 
+`pip3 install -r requirements.txt`
+
 `python3 revshell.py`
