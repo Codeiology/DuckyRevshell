@@ -1,4 +1,4 @@
-# Revshell
+# DuckyRevshell
 A tool built for macOS to create listeners and Duckyscript payloads! Payloads tested with Flipper Zero. Works perfectly.
 
 # Usage
